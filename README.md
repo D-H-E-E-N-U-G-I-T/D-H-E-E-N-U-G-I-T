@@ -1,7 +1,7 @@
 - 👋 Hi, I’m #DHEENU
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Ml/Dl/A.I
-- 💞️ I’m looking to collaborate on Python Community
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Kotlin / Android Studio
+- 💞️ I’m looking to collaborate on Android Community
 - 📫 How to reach me ~todheenu@yahoo.com
 
 <!---
